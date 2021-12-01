@@ -3,3 +3,4 @@ template.cpp
 test.cpp
 **.exe
 .vscode/**
+.gitignore
