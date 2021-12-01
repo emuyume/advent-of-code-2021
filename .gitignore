@@ -1,0 +1,5 @@
+txt.in
+template.cpp
+test.cpp
+**.exe
+.vscode/**
